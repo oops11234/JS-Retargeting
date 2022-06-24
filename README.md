@@ -4,7 +4,7 @@
 ### technical point
 ```
 * cookies create.
-* cookies set time limit.
+* cookies set one day limit.
 * window onload read cook to fetch specific JSON file.
 * Fetch data from static JSON file.
 
