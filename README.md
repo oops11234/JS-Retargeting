@@ -1,6 +1,6 @@
 # Retargeting Advertise Practice
 
-## [DEMO](https://oops11234.github.io/Retargeting/)
+## [DEMO](https://oops11234.github.io/JS-Retargeting/)
 ### technical point
 ```
 * cookies create.
